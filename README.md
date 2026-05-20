@@ -1,25 +1,163 @@
-#  About Me:
- I’m currently working on  <br>• Frontend UI/UX projects and modern web designs  <br>• Building responsive and beginner-friendly websites  <br><br> I’m looking to collaborate on  <br>• Creative frontend projects  <br>• Website redesigns and portfolio builds  <br><br>I’m looking for help with  <br>• Advanced frontend animations  <br>• Clean and responsive layouts  <br><br> I’m currently learning  <br>• Creating modern frontend interfaces  <br>• Responsive web design and clean UI aesthetics  <br>• Turning design ideas into functional websites  <br><br>Ask me about  <br>• Frontend design, layouts, color combinations, and student projects  <br><br>Fun fact  <br>• Coding stresses me out so I enjoy designing and editingmore
+````md
+<div align="center">
 
+<img src="https://i.pinimg.com/originals/7d/4b/89/7d4b89a2b4f2f9f6c1d87d77d4d7f2c5.gif" width="100%"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ynav.n) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ynav.n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julianakimsuarez) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@marcelhjg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sjulianakim@gmail.com) 
+# Juliana Kim
 
-# 💻 Tech Stack:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-#  GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=marcelhjg&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=marcelhjg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=marcelhjg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### frontend designer • ui/ux learner • cat coded
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=marcelhjg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-###  Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=marcelhjg&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=marcelhjg&icon=9&color=0)](https://visitcount.itsvg.in)
+
+## ୨୧ Introduction
+
+```txt
+hello, this is juliana.
+i enjoy creating soft and modern web designs with a mix of
+purple aesthetics, clean layouts, and cozy cat vibes.
+
+currently exploring frontend design, responsive websites,
+and turning creative ideas into functional projects.
+````
+
+---
+
+# About Me
+
+<table>
+<tr>
+<td width="50%">
+
+### Currently Working On
+
+* frontend ui/ux projects
+* modern and responsive websites
+* beginner-friendly web interfaces
+
+### Looking to Collaborate On
+
+* creative frontend projects
+* portfolio website builds
+* website redesign concepts
+
+### Looking for Help With
+
+* advanced frontend animations
+* cleaner responsive layouts
+* improving coding confidence
+
+</td>
+
+<td width="50%">
+
+### Currently Learning
+
+* modern frontend interfaces
+* responsive web design
+* clean ui aesthetics
+* turning designs into functional websites
+
+### Ask Me About
+
+* frontend layouts
+* color combinations
+* design ideas
+* student projects
+
+### Fun Fact
+
+* coding stresses me out so i spend more time designing and editing
+
+</td>
+</tr>
+</table>
+
+---
+
+# Connect With Me
+
+<p align="center">
+<a href="https://facebook.com/ynav.n">
+<img src="https://img.shields.io/badge/facebook-7E57C2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ynav.n">
+<img src="https://img.shields.io/badge/instagram-9575CD?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/julianakimsuarez">
+<img src="https://img.shields.io/badge/linkedin-B39DDB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@marcelhjg">
+<img src="https://img.shields.io/badge/tiktok-5E35B1?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="mailto:sjulianakim@gmail.com">
+<img src="https://img.shields.io/badge/gmail-7B1FA2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/github-6A1B9A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-8E24AA?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/canva-AB47BC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobe-7B1FA2?style=for-the-badge&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-5E35B1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/supabase-9575CD?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongodb-7E57C2?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-673AB7?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-512DA8?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-4527A0?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+</p>
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.shion.dev/api?username=marcelhjg\&theme=midnight-purple\&hide_border=true\&include_all_commits=true\&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=marcelhjg\&theme=midnight-purple\&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=marcelhjg\&theme=midnight-purple\&hide_border=true\&layout=compact)
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=marcelhjg\&theme=discord\&no-frame=true\&no-bg=true\&margin-w=6)
+
+</div>
+
+---
+
+# Top Contributions
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=marcelhjg\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=marcelhjg\&color=8E24AA\&style=flat)
+
+</div>
+```
