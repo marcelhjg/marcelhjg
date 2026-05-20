@@ -4,13 +4,12 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=3000&color=C8A2FF&center=true&vCenter=true&width=650&lines=Hello%2C+this+is+Juliana+%5E%5E;Frontend+Designer+and+Creative+Editor;Creating+soft+purple+aesthetic+websites"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=3000&color=C8A2FF&center=true&vCenter=true&width=650&lines=Hello%2C+this+is+Juliana+%5E%5E;Frontend+Designer+and+Creative+Editor"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Frontend%20Design-C8A2FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/UI%2FUX-B799FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Purple%20Aesthetic-A970FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Creative%20Editor-8A5CFF?style=for-the-badge"/>
 
 </div>
