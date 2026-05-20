@@ -21,9 +21,6 @@
 
 <div align="center">
 
-txt
-૮ ˶ᵔ ᵕ ᵔ˶ ა
-
 Hello, this is Juliana ^^
 
 A frontend designer focused on creating
